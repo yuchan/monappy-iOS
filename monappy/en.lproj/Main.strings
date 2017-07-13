@@ -1,0 +1,24 @@
+
+/* Class = "UITabBarItem"; title = "ピクプレ"; ObjectID = "Igg-Gl-KVo"; */
+"Igg-Gl-KVo.title" = "ピクプレ";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "aIZ-Ja-0gm"; */
+"aIZ-Ja-0gm.title" = "Root View Controller";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "hJd-a4-Eeu"; */
+"hJd-a4-Eeu.title" = "Root View Controller";
+
+/* Class = "UITabBarItem"; title = "ペイメント"; ObjectID = "jpJ-GV-tnU"; */
+"jpJ-GV-tnU.title" = "ペイメント";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "lbC-RK-TkL"; */
+"lbC-RK-TkL.title" = "Root View Controller";
+
+/* Class = "UITabBarItem"; title = "メモログ"; ObjectID = "ndy-4K-cKF"; */
+"ndy-4K-cKF.title" = "メモログ";
+
+/* Class = "UITabBarItem"; title = "Wallet"; ObjectID = "rJ7-5b-tRh"; */
+"rJ7-5b-tRh.title" = "Wallet";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tgn-KD-03H"; */
+"tgn-KD-03H.text" = "Label";
